@@ -4,7 +4,7 @@ This small project demos use of the Flask framework with Jinja2 templates togeth
 
 ## Installation
 
-```
+``` 
 # git clone https://github.com/Kungbib/flask-docker-example
 # cd flask-docker-example
 ```
